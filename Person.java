@@ -1,9 +1,9 @@
 public class Person {
   
-//  public static void main(String[] args) {
-//       Person p = new Person("Emily", "Kitchen");
-//       System.out.println("The name is " + p.getFirstName() + " " + p.getLastName());
-//   }
+public static void main(String[] args) {
+      Person p = new Person("Emily", "Kitchen");
+      System.out.println("The name is " + p.getFirstName() + " " + p.getLastName());
+  }
   
   private String firstName;
   private String lastName;
